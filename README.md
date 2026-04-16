@@ -1,5 +1,7 @@
 # 📅 Agendador de Tarefas — Microsserviço de Gerenciamento de Tarefas
 
+> 🎓 Projeto desenvolvido durante o curso da Javanauta Academy, com foco na construção de uma arquitetura de microsserviços utilizando Java e Spring Boot. Neste projeto, foram aplicados conceitos práticos como comunicação entre serviços, autenticação com JWT e boas práticas de organização de código.
+
 Microsserviço responsável pela criação, listagem e gerenciamento de tarefas dos usuários da plataforma. Desenvolvido com **Spring Boot 4**, **Java 21**, **MongoDB** como banco de dados NoSQL, autenticação via **JWT** e mapeamento de objetos com **MapStruct**.
 
 ---
